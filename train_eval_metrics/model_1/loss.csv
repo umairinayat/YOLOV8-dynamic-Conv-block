@@ -1,0 +1,2 @@
+epoch,batch_idx,box_loss,object_loss,class_loss
+1,0,0.04511052370071411,1.2190912961959839,0.3825690448284149
